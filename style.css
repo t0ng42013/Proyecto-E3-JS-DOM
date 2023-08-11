@@ -180,6 +180,7 @@ input {
      background: rgb(219, 59, 59);
      font-family: Arial, Helvetica, sans-serif;
      font-size: 20px;
+     cursor: pointer;
 }
 .btn-error:hover{
     background-color: #ee3c3c;
